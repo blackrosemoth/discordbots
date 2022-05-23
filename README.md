@@ -1,0 +1,1 @@
+This is my first attempt at a python-based discord bot. Everything it says is for entertainment purposes only and does not constitute real investment advice.
